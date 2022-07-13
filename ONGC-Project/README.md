@@ -2,7 +2,8 @@
 Hello, this is our ONGC web project
 
 # Login page
-![](images/%10login.JPG)
+❮img src="images/login.JPG" width="100" ❯
+#![](images/login.JPG)
 
 
 # Registration Page
