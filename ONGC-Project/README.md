@@ -2,7 +2,7 @@
 Hello, this is our ONGC web project
 
 # Login page
-<img src="images/login.JPG" width="70">
+<img src="images/login.JPG" width="100">
 
 
 # Registration Page
